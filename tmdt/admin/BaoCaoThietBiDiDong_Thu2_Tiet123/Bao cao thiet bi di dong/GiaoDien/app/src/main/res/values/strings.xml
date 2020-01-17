@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quan Ly Nhan Su</string>
+    <string name="lbid">ID:</string>
+    <string name="lbNo">No. : </string>
+    <string name="lbname">Name: </string>
+    <string name="lbbd">Birthday: </string>
+    <string name="lbgender">Gender: </string>
+    <string name="lbphone">Phone: </string>
+    <string name="lbemail">Email: </string>
+    <string name="lbaddresss">Address: </string>
+    <string name="lblist">List of employee</string>
+
+</resources>
